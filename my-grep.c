@@ -19,7 +19,7 @@ int main(int argc, char*argv[])
 
   //If a search term, but no file, is specified
   if(argc == 2) {
-		printf("\nEnter a sentence to search from: ");
+		printf("Enter a sentence to search from: ");
     fgets(sentence, 100, stdin);
     
     if(strstr(sentence,argv[1])!= 0){
