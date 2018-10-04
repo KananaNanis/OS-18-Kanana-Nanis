@@ -74,7 +74,7 @@ int main(int argc, char *argv[]) {
     //check if user has entered a file name to read from
     if(argc < 2){
 
-        printf("Filename is missing!\n");
+        // printf("Filename is missing!\n");
 	    return 0;
     }
     //Loop through user input file(s)
@@ -104,12 +104,5 @@ int main(int argc, char *argv[]) {
   
 }
 
-//https://codereview.stackexchange.com/questions/180364/basic-shell-in-c?rq=1
-//https://codereview.stackexchange.com/questions/117052/basic-shell-implementation?rq=1
-//https://codereview.stackexchange.com/questions/67746/simple-shell-in-c
-//https://codereview.stackexchange.com/questions/191914/yet-another-shell-in-c?rq=1
-//https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/
-//https://indradhanush.github.io/blog/writing-a-unix-shell-part-2/
-//https://www.youtube.com/watch?v=k6TTj4C0LF0
-//https://stackoverflow.com/questions/4788374/writing-a-basic-shell
+
 
