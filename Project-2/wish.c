@@ -1,7 +1,7 @@
 /*
  * Operating Systems Project 2
  * Author: 	Nanis Kanana
- * Purpose:  Implementation of the cat UNIX Shell
+ * Purpose:  Implementation of the UNIX Shell
  * */
 #include <stdio.h>
 #include <stdlib.h>
