@@ -1,0 +1,4 @@
+Re-familiarize yourself with the C programming language
+Re-familiarize yourself with a shell / terminal / command-line of UNIX
+Learn (as a side effect) how to use a proper code editor such as emacs
+Learn a little about how UNIX utilities are implemented
